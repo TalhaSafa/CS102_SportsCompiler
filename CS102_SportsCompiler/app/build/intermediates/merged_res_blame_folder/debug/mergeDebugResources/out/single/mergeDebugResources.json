@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "/Users/caganaksoy/.gradle/daemon/8.7/com.example.sportscompiler.app-debug-31:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/caganaksoy/.gradle/daemon/8.7/com.example.sportscompiler.app-main-33:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/caganaksoy/.gradle/daemon/8.7/com.example.sportscompiler.app-debug-31:/layout_activity_home.xml.flat",
+        "source": "/Users/caganaksoy/.gradle/daemon/8.7/com.example.sportscompiler.app-main-33:/layout/activity_home.xml"
+    },
+    {
+        "merged": "/Users/caganaksoy/.gradle/daemon/8.7/com.example.sportscompiler.app-debug-31:/drawable_sportcompicon.png.flat",
+        "source": "/Users/caganaksoy/.gradle/daemon/8.7/com.example.sportscompiler.app-main-33:/drawable/sportcompicon.png"
+    },
+    {
+        "merged": "/Users/caganaksoy/.gradle/daemon/8.7/com.example.sportscompiler.app-debug-31:/xml_data_extraction_rules.xml.flat",
+        "source": "/Users/caganaksoy/.gradle/daemon/8.7/com.example.sportscompiler.app-main-33:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/Users/caganaksoy/.gradle/daemon/8.7/com.example.sportscompiler.app-debug-31:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/caganaksoy/.gradle/daemon/8.7/com.example.sportscompiler.app-main-33:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/caganaksoy/.gradle/daemon/8.7/com.example.sportscompiler.app-debug-31:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/caganaksoy/.gradle/daemon/8.7/com.example.sportscompiler.app-main-33:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/caganaksoy/.gradle/daemon/8.7/com.example.sportscompiler.app-debug-31:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/caganaksoy/.gradle/daemon/8.7/com.example.sportscompiler.app-main-33:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/caganaksoy/.gradle/daemon/8.7/com.example.sportscompiler.app-debug-31:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/caganaksoy/.gradle/daemon/8.7/com.example.sportscompiler.app-main-33:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/caganaksoy/.gradle/daemon/8.7/com.example.sportscompiler.app-debug-31:/layout_activity_main.xml.flat",
+        "source": "/Users/caganaksoy/.gradle/daemon/8.7/com.example.sportscompiler.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.sportscompiler.app-debug-31:/layout_activity_main2.xml.flat",
+        "source": "com.example.sportscompiler.app-main-33:/layout/activity_main2.xml"
+    },
+    {
+        "merged": "/Users/caganaksoy/.gradle/daemon/8.7/com.example.sportscompiler.app-debug-31:/mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "/Users/caganaksoy/.gradle/daemon/8.7/com.example.sportscompiler.app-main-33:/mipmap-anydpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/caganaksoy/.gradle/daemon/8.7/com.example.sportscompiler.app-debug-31:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/caganaksoy/.gradle/daemon/8.7/com.example.sportscompiler.app-main-33:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/caganaksoy/.gradle/daemon/8.7/com.example.sportscompiler.app-debug-31:/layout_fragment_signing_page.xml.flat",
+        "source": "/Users/caganaksoy/.gradle/daemon/8.7/com.example.sportscompiler.app-main-33:/layout/fragment_signing_page.xml"
+    },
+    {
+        "merged": "/Users/caganaksoy/.gradle/daemon/8.7/com.example.sportscompiler.app-debug-31:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/caganaksoy/.gradle/daemon/8.7/com.example.sportscompiler.app-main-33:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/caganaksoy/.gradle/daemon/8.7/com.example.sportscompiler.app-debug-31:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "/Users/caganaksoy/.gradle/daemon/8.7/com.example.sportscompiler.app-main-33:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/caganaksoy/.gradle/daemon/8.7/com.example.sportscompiler.app-debug-31:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/caganaksoy/.gradle/daemon/8.7/com.example.sportscompiler.app-main-33:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/caganaksoy/.gradle/daemon/8.7/com.example.sportscompiler.app-debug-31:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/caganaksoy/.gradle/daemon/8.7/com.example.sportscompiler.app-main-33:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/caganaksoy/.gradle/daemon/8.7/com.example.sportscompiler.app-debug-31:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/caganaksoy/.gradle/daemon/8.7/com.example.sportscompiler.app-main-33:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/caganaksoy/.gradle/daemon/8.7/com.example.sportscompiler.app-debug-31:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/caganaksoy/.gradle/daemon/8.7/com.example.sportscompiler.app-main-33:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/caganaksoy/.gradle/daemon/8.7/com.example.sportscompiler.app-debug-31:/xml_backup_rules.xml.flat",
+        "source": "/Users/caganaksoy/.gradle/daemon/8.7/com.example.sportscompiler.app-main-33:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/Users/caganaksoy/.gradle/daemon/8.7/com.example.sportscompiler.app-debug-31:/mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "/Users/caganaksoy/.gradle/daemon/8.7/com.example.sportscompiler.app-main-33:/mipmap-anydpi/ic_launcher.xml"
+    }
+]

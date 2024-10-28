@@ -1,0 +1,26 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color green
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable sportcompicon
+id fragment_container
+id main
+id signInButton
+id signingPassword
+id signingPasswordcheck
+id signingmail
+layout activity_home
+layout activity_main
+layout activity_main2
+layout fragment_signing_page
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string hello_blank_fragment
+style Base.Theme.SportsCompiler
+style Theme.SportsCompiler
+xml backup_rules
+xml data_extraction_rules
